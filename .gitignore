@@ -132,4 +132,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Spring 팀프로젝트 충돌 방지
+MANIFEST.MF
+pom.properties
+target/
+
+
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,maven,windows
