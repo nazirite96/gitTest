@@ -10,5 +10,8 @@ public class IndexController {
 	public String index() {
 		return "index";
 	}
-	
+	@RequestMapping("jjindex.do")
+	public String jjindex() {
+		return "jjindex";
+	}
 }
