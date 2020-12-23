@@ -12,6 +12,7 @@
 	<a href = "jjindex.do">제진이가 쏘아올린 작은 공</a>
 
 	일화수정
-
+	
+	은진 수정
 </body>
 </html>
