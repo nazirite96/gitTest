@@ -133,3 +133,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse,maven,windows
+
+# Spring 팀프로젝트 충돌 방지
+MANIFEST.MF
+pom.properties
+target/
